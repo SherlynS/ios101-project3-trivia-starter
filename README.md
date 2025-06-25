@@ -2,7 +2,7 @@
 
 Submitted by: **Sherlyn**
 
-**Trivia App** is an app that tests peoples knowledge in pastries 
+**Trivia App** is an app that tests peoples knowledge in random things 
 
 Time spent: **4** hours spent in total
 
